@@ -77,10 +77,6 @@
     "replace": {
         "zfcampus/zf-content-negotiation": "^1.4.0"
     },
-    "provide": {
-        "laminas-api-tools/api-tools-api-problem": "1.7.x-dev",
-        "laminas-api-tools/api-tools-hal": "1.11.x-dev"
-    },
     "repositories": [
         {
           "type": "git",
